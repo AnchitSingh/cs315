@@ -1,0 +1,32 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg154922" viewBox="0 0 1024 768" height="768px" width="1024px" version="1.1">
+  <metadata id="metadata154928">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs154926"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-74c6bf27-eef2-4fe0-a647-a9e12d4065cb">
+    <stop id="stop154903" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop154905" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-74c6bf27-eef2-4fe0-a647-a9e12d4065cb">
+    <stop id="stop154908" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop154910" stop-opacity="1" stop-color="#cccccc" offset="50%"></stop>
+    <stop id="stop154912" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" style="display: none;" transform="translate(0 0)"></image>
+    <g id="logo-center" transform="translate(0 0)">
+      <image xlink:href="" id="icon_container" x="-2331" y="59274" style="display: none;"></image>
+      <g id="slogan" style="font-style:oblique;font-weight:600;font-size:32px;line-height:1;font-family:Lora;font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"></g>
+      <g id="title" style="font-style:normal;font-weight:400;font-size:72px;line-height:1;font-family:Edo;font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <path id="path154931" style="font-style:normal;font-weight:400;font-size:72px;line-height:1;font-family:Edo;font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 516.14844,-47.917969 1.79297,0.597657 V -46.125 h -1.79297 l 1.19531,1.792969 q -1.30078,2.988281 -9.5625,2.988281 l -4.18359,0.597656 L 503,-38.953125 h 0.59766 q -1.79297,4.253906 -7.17188,38.25 l 1.79297,7.7695312 h -0.59766 q -1.33593,0 -2.39062,-5.9765625 l 0.59765,-5.9765624 V -5.484375 h -0.59765 v 1.1953125 q -1.79297,0 -1.79297,1.1953125 v 0.5976562 l 1.19531,9.5625 V 7.6640625 H 493.4375 L 491.04687,5.8710937 490.44922,6.46875 h -0.59766 q -2.39062,-5.1679688 -2.39062,-8.9648438 l 0.59765,0.5976563 h 0.59766 l -1.19531,-4.1835937 1.79297,-0.5976563 v -2.9882813 h -1.19532 v -0.5976562 q 1.79297,0 1.79297,-1.195313 v -0.597656 h -1.19531 q 0,-4.78125 1.79297,-4.78125 v -7.769531 q 0.94922,-0.84375 2.39062,-12.550781 l -4.18359,0.597656 -8.36719,-0.597656 v -0.597656 l 2.98828,-0.597657 v 0.597657 l 0.59766,-0.597657 h 8.96484 v -1.792968 l -9.5625,1.195312 -0.59765,-0.597656 h -0.59766 l -3.58594,0.597656 -1.79297,-1.195312 0.59766,-2.988282 -0.59766,-0.597656 q 0,-2.988281 7.17188,-2.988281 z M 512.5625,-46.125 v 0.597656 h 2.39062 V -46.125 Z m -22.11328,33.46875 -1.19531,13.1484375 h 1.19531 l -0.59766,-2.9882813 v -1.1953125 l 1.19531,-1.7929687 h -0.59765 l 0.59765,-0.5976562 v -0.5976563 l -0.59765,-0.5976562 V -7.875 l 1.19531,-2.390625 -0.59766,-2.390625 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#726ad4" stroke="#726ad4" transform="translate(0 346.4628915) translate(395.62694 -45.835938) scale(3) translate(-476.70312 47.917969)"></path>
+        <path id="path154933" style="font-style:normal;font-weight:400;font-size:72px;line-height:1;font-family:Edo;font-variant-ligatures:none;text-align:center;text-anchor:middle" d="m 548.49219,-47.917969 1.79297,0.597657 V -46.125 h -1.79297 l 1.19531,1.792969 q -1.30078,2.988281 -9.5625,2.988281 l -4.18359,0.597656 -0.59766,1.792969 h 0.59766 q -1.79297,4.253906 -7.17188,38.25 l 1.79297,7.7695312 h -0.59766 q -1.33593,0 -2.39062,-5.9765625 l 0.59765,-5.9765624 V -5.484375 h -0.59765 v 1.1953125 q -1.79297,0 -1.79297,1.1953125 v 0.5976562 l 1.19531,9.5625 v 0.5976563 h -1.19531 L 523.39062,5.8710937 522.79297,6.46875 h -0.59766 q -2.39062,-5.1679688 -2.39062,-8.9648438 l 0.59765,0.5976563 H 521 l -1.19531,-4.1835937 1.79297,-0.5976563 v -2.9882813 h -1.19532 v -0.5976562 q 1.79297,0 1.79297,-1.195313 v -0.597656 H 521 q 0,-4.78125 1.79297,-4.78125 v -7.769531 q 0.94922,-0.84375 2.39062,-12.550781 L 521,-36.5625 l -8.36719,-0.597656 v -0.597656 l 2.98828,-0.597657 v 0.597657 l 0.59766,-0.597657 h 8.96484 v -1.792968 l -9.5625,1.195312 -0.59765,-0.597656 h -0.59766 l -3.58594,0.597656 -1.79297,-1.195312 0.59766,-2.988282 -0.59766,-0.597656 q 0,-2.988281 7.17188,-2.988281 z m -3.58594,1.792969 v 0.597656 h 2.39062 V -46.125 Z m -22.11328,33.46875 -1.19531,13.1484375 h 1.19531 l -0.59766,-2.9882813 v -1.1953125 l 1.19531,-1.7929687 h -0.59765 l 0.59765,-0.5976562 v -0.5976563 l -0.59765,-0.5976562 V -7.875 l 1.19531,-2.390625 -0.59766,-2.390625 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#726ad4" stroke="#726ad4" transform="translate(0 346.4628915) translate(504.65819 -45.835938) scale(3) translate(-509.04687 47.917969)"></path>
+      </g>
+      <image xlink:href="https://app.brandmark.io/nounpreview/164671.png" id="icon" x="-2331" y="59274" style="display: none;"></image>
+    </g>
+  </g>
+</svg>
